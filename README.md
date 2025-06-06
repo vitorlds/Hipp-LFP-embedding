@@ -9,7 +9,9 @@ This repository provides code, data, and pre-trained models for constructing a l
 
 It accompanies the paper:
 
-**[Full citation placeholder — to be added]**
+**Lopes-dos-Santos, V., Brizee, D., Dupret, D. (2025).**  
+_Spatio-temporal organization of network activity patterns in the hippocampus._  
+**Cell Reports, 44**, 115808. [https://doi.org/10.1016/j.celrep.2025.115808](https://doi.org/10.1016/j.celrep.2025.115808)
 
 ---
 
